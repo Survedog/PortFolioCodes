@@ -1,0 +1,4 @@
+interface IInteractiveObject
+{
+    void OnInteract();
+}
